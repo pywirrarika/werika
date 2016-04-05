@@ -1,5 +1,5 @@
 # werika
-This is a language recognition system for Wixarika(huichol) indigenous language. It can extract sentences with a minimum of three words inside an unknown text sorces. In theory you may be used also for other languages.
+This is a language recognition system for Wixarika(huichol) indigenous language of Mexico. It can extract sentences with a minimum of three words inside an unknown text sorces. In theory you may use this script also for other languages.
 
 ## Usage
 
@@ -20,4 +20,4 @@ GPL v3+
 
 ## Thanks
 
-Thanks to Phd. Ivan Vladmimir Meza, and Phd. Carlos Barron Romer for all the help given to me to create this simple script. 
+Thanks to Prof. Ivan Vladmimir Meza, and Prof. Carlos Barron Romer for their invaluable help with this work.
