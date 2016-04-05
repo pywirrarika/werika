@@ -1,0 +1,4 @@
+This is a example of a file that contains an phrase in Wixarika, Spanish, English and German. 
+To acomplish the a correct classification in our script it should extract only one phrase.
+Una preunga, donde es eso?? Tatei-Kie, teyupannie h+xie, que buena foto, me gustó mucho!
+Verte de nuevo amiga. Cuidate saludos. Ich kann es auch auf Deutsch versuchen!
