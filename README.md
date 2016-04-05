@@ -20,4 +20,4 @@ GPL v3+
 
 ## Thanks
 
-Thanks to Prof. Ivan Vladmimir Meza, and Prof. Carlos Barron Romer for their invaluable help with this work.
+Thanks to [http://turing.iimas.unam.mx/~ivanvladimir/](URL "Prof. Ivan Vladmimir Meza"), and Prof. Carlos Barron Romer for their invaluable help with this work.
